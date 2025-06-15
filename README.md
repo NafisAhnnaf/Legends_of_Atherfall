@@ -7,5 +7,5 @@
 - Run Command: `javac AetherfallGame.java && java AetherfallGame`
 
 ## Description:
-    A simple RPG game that allows you to choose between heroes and fight with enemies of the city of Atherfalls. 
-    !! This project was a part of a Course Assignment !!
+A simple RPG game that allows you to choose between heroes and fight with enemies of the city of Atherfalls. 
+!! This project was a part of a Course Assignment !!
